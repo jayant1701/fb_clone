@@ -1,3 +1,7 @@
+hosted on - https://fb-clone-55e11.web.app/
+
+Made using react js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
